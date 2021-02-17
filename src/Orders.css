@@ -1,0 +1,13 @@
+.orders {
+    padding: 10px 60px;
+}
+.orders > h1 {
+margin: 20px 0;
+}
+.orders .chectoutproduct-info::after {
+    padding: 8px;
+    margin-top: 20px;
+    margin-left: 40px;
+    color: green;
+    content: 'Order Confirmed';
+}

@@ -1,0 +1,20 @@
+.order {
+    padding: 30px;
+    margin: 20px 5px;
+    background: #111;
+    color: aliceblue;
+    position: relative;
+}
+.orderId{
+ position: absolute;
+ top: 30px;
+ right: 20px;
+}
+.order button {
+    display: none;
+}
+
+.order-total {
+font-weight: 600;
+text-align: right;
+}

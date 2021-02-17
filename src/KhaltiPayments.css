@@ -1,0 +1,10 @@
+
+
+.khaltipayments img {
+    width: 100px;
+    height: auto;
+    transition: all 300ms ease;
+}
+.khaltipayments img:hover {
+    transform: scale(1.04);
+}
